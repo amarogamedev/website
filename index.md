@@ -1,5 +1,4 @@
 ```
-――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
 ```
 
 ## Contact
@@ -13,7 +12,6 @@ And make sure to follow me on my social media:
 - [Instagram](instagram.com/luisf_amaro)
 
 ```
-――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
 ```
 
 ## My published games
@@ -26,7 +24,6 @@ And make sure to follow me on my social media:
 - **ANDROID** [Bouncy Bird](https://play.google.com/store/apps/details?id=com.AmaroGames.BouncyBird) is a addictive flappy game with spikes, birds and bounces!
 
 ```
-――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
 ```
 
 ## My work on graphic design
