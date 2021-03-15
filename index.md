@@ -12,7 +12,7 @@ And make sure to follow me on my social media:
 ## My published games
 - **PC - STEAM** [Whisperwind](https://store.steampowered.com/app/1501650/) is a short psychological horror experience featuring puzzles, multiple endings, creepy ambience and deep storytelling.
  
-- **PC - ITCH.IO** [Bodyrain](https://amarogamedev.itch.io/bodyrain) is a fast paced FPS set on a small island full of zombies.
+- **PC - ITCH.IO** [Bodyrain](https://amarogamedev.itch.io/bodyrain) is a fast paced FPS set on a small island full of zombies. Soon going to be remade with better gameplay, graphics and story!
 
 - **ANDROID** [Balloon Pop](https://play.google.com/store/apps/details?id=com.AmaroGames.BalloonPop) is a casual game where you're a balloon dodging from falling knives!
 
