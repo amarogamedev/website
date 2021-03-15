@@ -1,5 +1,5 @@
 # Amaro
-### Contact
+## Contact
 Feel free to send messages to this e-mail adress: **luisfellipeamaro@gmail.com**
 
 And make sure to follow me on my social media:
@@ -9,7 +9,7 @@ And make sure to follow me on my social media:
 - [Youtube](youtube.com/channel/UCYeWtyw2-W_whqjU-BcvcYA)
 - [Instagram](instagram.com/luisf_amaro)
 
-### My published games
+## My published games
 - **PC - STEAM** [Whisperwind](https://store.steampowered.com/app/1501650/) is a short psychological horror experience featuring puzzles, multiple endings, creepy ambience and deep storytelling.
  
 - **PC - ITCH.IO** [Bodyrain](https://amarogamedev.itch.io/bodyrain) is a fast paced FPS set on a small island full of zombies.
