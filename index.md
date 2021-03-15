@@ -9,5 +9,5 @@ And make sure to follow me on my social media:
 - [Instagram](instagram.com/luisf_amaro)
 
 ### My published games
-- [Whisperwind](https://store.steampowered.com/1501650/)
+- [Whisperwind](https://store.steampowered.com/app/1501650/)
 Whisperwind is a short psychological horror experience featuring puzzles, multiple endings, creepy ambience and deep storytelling.
