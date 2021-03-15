@@ -43,3 +43,5 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
+
+theme: jekyll-theme-minimal
