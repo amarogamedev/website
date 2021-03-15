@@ -1,4 +1,7 @@
 # Home
+## About
+I'm a brazilian guy who started coding some games and is trying to create great gaming experiences! I am learning Unity/C# since 2018 and learning Photoshop/Illustrator since 2013. I'm available to join teams, take sponsorships, deliver comissions.
+
 ## Contact
 Feel free to send messages to this e-mail adress: **luisfellipeamaro@gmail.com**
 And make sure to follow me on my social media:
