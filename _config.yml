@@ -1,5 +1,9 @@
 theme:
 
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
 title: Amaro
 description: Welcome to my personal website! Here you'll find all sort of information about me and my projects!
 
@@ -24,3 +28,18 @@ hover-col: "#0085A1"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "" # any file that's not a post will be a "page" layout by default
+    values:
+      layout: "page"
