@@ -16,9 +16,3 @@ And make sure to follow me on my social media:
 - **ANDROID** [Balloon Pop](https://play.google.com/store/apps/details?id=com.AmaroGames.BalloonPop) is a casual game where you're a balloon dodging from falling knives!
 
 - **ANDROID** [Bouncy Bird](https://play.google.com/store/apps/details?id=com.AmaroGames.BouncyBird) is a addictive flappy game with spikes, birds and bounces!
-
-## My work on graphic design
-I'm available for commissions, if you want to purchase a custom logo just send me an e-mail and we can discuss!
-Here are some logos I've made before:
-
-**Logos should be here**
