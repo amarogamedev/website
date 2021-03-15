@@ -1,7 +1,6 @@
 # Home
 ## Contact
 Feel free to send messages to this e-mail adress: **luisfellipeamaro@gmail.com**
-
 And make sure to follow me on my social media:
 - [Twitter](twitter.com/amarogamedev)
 - [Discord](https://discord.com/invite/qQ9dtpFeuv)
